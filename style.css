@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+} 
+
+body {
+  background-color: #f0f0f0
+}
+
+section  {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+ margin: 7.87rem auto;
+
+}
+
+.image{
+ /* display: block; */
+ position: absolute;
+ width: 12.5rem;
+ border-radius: 50%;
+ 
+}
+
+.circle {
+  border: 2px solid #BB99DD;
+  border-radius: 50%;
+  height: 13rem;
+  width: 13rem;
+}
